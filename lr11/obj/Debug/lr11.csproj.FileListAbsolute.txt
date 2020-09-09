@@ -1,0 +1,7 @@
+D:\Projects\ТП\lr11\bin\Debug\lr11.exe.config
+D:\Projects\ТП\lr11\bin\Debug\lr11.exe
+D:\Projects\ТП\lr11\bin\Debug\lr11.pdb
+D:\Projects\ТП\lr11\obj\Debug\lr11.csprojAssemblyReference.cache
+D:\Projects\ТП\lr11\obj\Debug\lr11.csproj.CoreCompileInputs.cache
+D:\Projects\ТП\lr11\obj\Debug\lr11.exe
+D:\Projects\ТП\lr11\obj\Debug\lr11.pdb
