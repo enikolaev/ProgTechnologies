@@ -1,0 +1,7 @@
+D:\Projects\ТП\Questions\bin\Debug\Questions.exe.config
+D:\Projects\ТП\Questions\bin\Debug\Questions.exe
+D:\Projects\ТП\Questions\bin\Debug\Questions.pdb
+D:\Projects\ТП\Questions\obj\Debug\Questions.csproj.CoreCompileInputs.cache
+D:\Projects\ТП\Questions\obj\Debug\Questions.exe
+D:\Projects\ТП\Questions\obj\Debug\Questions.pdb
+D:\Projects\ТП\Questions\obj\Debug\Questions.csprojAssemblyReference.cache
