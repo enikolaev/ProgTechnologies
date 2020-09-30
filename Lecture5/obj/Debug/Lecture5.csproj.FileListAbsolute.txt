@@ -1,0 +1,7 @@
+D:\Projects\ТП\Lecture5\bin\Debug\Lecture5.exe.config
+D:\Projects\ТП\Lecture5\bin\Debug\Lecture5.exe
+D:\Projects\ТП\Lecture5\bin\Debug\Lecture5.pdb
+D:\Projects\ТП\Lecture5\obj\Debug\Lecture5.csprojAssemblyReference.cache
+D:\Projects\ТП\Lecture5\obj\Debug\Lecture5.csproj.CoreCompileInputs.cache
+D:\Projects\ТП\Lecture5\obj\Debug\Lecture5.exe
+D:\Projects\ТП\Lecture5\obj\Debug\Lecture5.pdb

@@ -1,0 +1,25 @@
+********************************************
+Title: Hello book : by author Luis John Jerry 
+Pages: 120; Luis J. J.; Price: 23,89. 
+Publisher: Кванта 
+********************************************
+********************************************
+Title: Second book : by author Woo Mark Sou 
+Pages: 540; Woo M. S.; Price: 154,45. 
+Publisher: НаучЛит 
+********************************************
+********************************************
+Title: Wing of Liberty : by author Woo MaBirk Sou 
+Pages: 12; Woo M. S.; Price: 154,45. 
+Publisher: НаучЛит 
+********************************************
+********************************************
+Title: No name book : by author Woo Mark Sou 
+Pages: 540; Woo M. S.; Price: 154,45. 
+Publisher: Сигма 
+********************************************
+********************************************
+Title: Math in University : by author Jeromy Lisa Boil 
+Pages: 540; Jeromy L. B.; Price: 154,45. 
+Publisher: НаучЛит 
+********************************************
