@@ -1,0 +1,6 @@
+INS-b-o-19
+FIO : Иванов И.И., AGE 20
+FIO : Сидоров И.И., AGE 20
+FIO : Петров И.И., AGE 20
+FIO : Rfrf И.И., AGE 20
+

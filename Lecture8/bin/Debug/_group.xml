@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Group xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <GroupName>INS-b-o-19</GroupName>
+  <students>
+    <Student>
+      <FIO>Иванов И.И.</FIO>
+      <Age>20</Age>
+    </Student>
+    <Student>
+      <FIO>Сидоров И.И.</FIO>
+      <Age>20</Age>
+    </Student>
+    <Student>
+      <FIO>Петров И.И.</FIO>
+      <Age>20</Age>
+    </Student>
+    <Student>
+      <FIO>Rfrf И.И.</FIO>
+      <Age>20</Age>
+    </Student>
+  </students>
+</Group>

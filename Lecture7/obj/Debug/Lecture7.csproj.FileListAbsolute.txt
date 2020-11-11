@@ -1,0 +1,7 @@
+D:\Projects\ТП\Lecture7\bin\Debug\Lecture7.exe.config
+D:\Projects\ТП\Lecture7\bin\Debug\Lecture7.exe
+D:\Projects\ТП\Lecture7\bin\Debug\Lecture7.pdb
+D:\Projects\ТП\Lecture7\obj\Debug\Lecture7.csprojAssemblyReference.cache
+D:\Projects\ТП\Lecture7\obj\Debug\Lecture7.csproj.CoreCompileInputs.cache
+D:\Projects\ТП\Lecture7\obj\Debug\Lecture7.exe
+D:\Projects\ТП\Lecture7\obj\Debug\Lecture7.pdb
